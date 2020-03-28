@@ -1,0 +1,26 @@
+body {
+    align-content: center;
+
+    .text-container {
+        height: 1000px;
+    }
+    h1 {
+        position: absolute;
+        left: 45%;
+        top: 50px;
+        font-size: 2em;
+        font-family: 'Aclonica', sans-serif;
+        color: rgb(8, 7, 7);
+    }
+    p {
+        position: relative;
+        width: 80%;
+        top: 80px;
+        margin: 0;
+        display: inline-block;
+        font-size: 2.2em;
+        font-family: 'Just Another Hand', cursive;
+        color: whitesmoke;
+    }
+
+}
